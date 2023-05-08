@@ -50,7 +50,7 @@ In numeric layout different short names are used. The details about them are as 
 VirusTotal is used to check the False Positive for this setup. Here is the [report](https://www.virustotal.com/gui/file/7872f3506cfad62883b5a0cb2828e3e93064d58580ff968cdf28e82733522dd3?nocache=1).
 
 ### Important links-
-- Youtube: [Video]()
+- Youtube: Video(coming soon)
 - NextMind: [Link](https://github.com/Snapchat/NextMind)
 
 ### Setup Icon
