@@ -58,6 +58,6 @@ The setup icon looks like this
 
 <img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/IcoFile.ico" width="40" height="40" />
 
-Overall, MindTypeWriter is a groundbreaking device that has the potential to revolutionize the way we interact with computers. With further development, it could become a game-changer for people with physical disabilities, allowing them to type using NeuroTag and improving their overall quality of life.
+Overall, MindTypeWriter is a groundbreaking idea that has the potential to revolutionize the way we interact with computers. With further development, it could become a game-changer for people with physical disabilities, allowing them to type using NextMind and improving their overall quality of life.
 
 #bci #neuroscience #nextmind #Unity #braincomputerinterface #Chatgpt #Keyboard #Windows 
