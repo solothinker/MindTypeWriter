@@ -1,5 +1,5 @@
 # MindTypeWriter
-MindTypeWriter is a BCI (Brain-Computer Interface) Keyboard that uses the NextMind BCI Kit and Unity game developer platform. It simulates keystrokes to provide keyboard input to Windows platforms, allowing users to control the environment using NeuroTags.
+MindTypeWriter is a BCI (Brain-Computer Interface) Keyboard that uses the NextMind BCI Kit and Unity game developer platform. It simulates keystrokes to provide keyboard input to Windows platforms, allowing users to control the environment using NextMind's NeuroTags.
 
 MindTypeWriter is a proof-of-concept (POC) designed to develop basic interaction between the Windows operating system and the human mind. It is currently in its initial stages (Gen-I) and requires further iteration to optimize user response.The specifications of the MindTypeWriter is as follows.
 
@@ -7,7 +7,7 @@ MindTypeWriter is a proof-of-concept (POC) designed to develop basic interaction
 <img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/DefaultKeyBoard.png" width="500" height="300" />
 
 
-- MindTypeWriter Keyboard NextMind neurotag description
+- NextMind neurotag description in MindTypeWriter Keyboard 
 <img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/KeyDescriptions.png" width="500" height="300" />
 
 1. __CapsLock/NumLock__ - Manage the alphabet and Numeric keys.
@@ -47,7 +47,7 @@ In numeric layout different short names are used. The details about them are as 
 - Up,Lft,Dwn, and Rgt- Arrow keys Up, Left, Down and Right
 - Hom, PgU,and PgD- Home, Page Up, and Page Down 
 
-VirusTotal is used to check the False Positive for this setup. Here is the [report](https://www.virustotal.com/gui/file/7872f3506cfad62883b5a0cb2828e3e93064d58580ff968cdf28e82733522dd3?nocache=1).
+VirusTotal is used to check the False Positive for this setup. Here is the [report](https://www.virustotal.com/gui/file/08f9adcc1f1e8e0b046529bc49d21a76a219be68262b08f87545a059a2e736b5?nocache=1).
 
 ### Important links-
 - Youtube: Video(coming soon)
