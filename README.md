@@ -4,8 +4,10 @@ MindTypeWriter is a BCI (Brain-Computer Interface) Keyboard that uses the NextMi
 MindTypeWriter is a proof-of-concept (POC) designed to develop basic interaction between the Windows operating system and the human mind. It is currently in its initial stages (Gen-I) and requires further iteration to optimize user response.The specifications of the MindTypeWriter is as follows.
 
 - Default screen size is 800x600.
-<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/DefaultKeyBoard.png" width="500" height="300"/>
 
+<picture>
+<img alt="" src="https://github.com/solothinker/MindTypeWriter/blob/19c0f04d4365a13ca6d001732072871ed0dbd867/Data/DefaultKeyBoard.jpg" width="500" height="300"/>
+</picture>
 
 - NextMind neurotag description in MindTypeWriter Keyboard 
 <img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/KeyDescriptions.png" width="500" height="300"/>
