@@ -4,11 +4,11 @@ MindTypeWriter is a BCI (Brain-Computer Interface) Keyboard that uses the NextMi
 MindTypeWriter is a proof-of-concept (POC) designed to develop basic interaction between the Windows operating system and the human mind. It is currently in its initial stages (Gen-I) and requires further iteration to optimize user response.The specifications of the MindTypeWriter is as follows.
 
 - Default screen size is 800x600.
-<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/DefaultKeyBoard.png" width="500" height="300" />
+<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/DefaultKeyBoard.png" width="500" height="300"/>
 
 
 - NextMind neurotag description in MindTypeWriter Keyboard 
-<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/KeyDescriptions.png" width="500" height="300" />
+<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/KeyDescriptions.png" width="500" height="300"/>
 
 1. __CapsLock/NumLock__ - Manage the alphabet and Numeric keys.
 
@@ -32,13 +32,13 @@ MindTypeWriter is a proof-of-concept (POC) designed to develop basic interaction
 ## Keyboard layout
 
 - Default layout
-<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/DefaultKeyBoard.png" width="500" height="300" />
+<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/DefaultKeyBoard.png" width="500" height="300"/>
 
 - CapsLock on layout
-<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/CapsLockOnKeyBoard.png" width="500" height="300" />
+<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/CapsLockOnKeyBoard.png" width="500" height="300"/>
 
 - Numeric layout
-<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/NumericKeyBoard.png" width="500" height="300" />
+<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/NumericKeyBoard.png" width="500" height="300"/>
 
 ### Numeric layout
 In numeric layout different short names are used. The details about them are as follows.
@@ -56,7 +56,7 @@ VirusTotal is used to check the False Positive for this setup. Here is the [repo
 ### Setup Icon
 The setup icon looks like this
 
-<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/IcoFile.ico" width="40" height="40" />
+<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/IcoFile.ico" width="40" height="40"/>
 
 Overall, MindTypeWriter is a groundbreaking idea that has the potential to revolutionize the way we interact with computers. With further development, it could become a game-changer for people with physical disabilities, allowing them to type using NextMind and improving their overall quality of life.
 
