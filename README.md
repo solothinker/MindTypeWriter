@@ -6,7 +6,7 @@ MindTypeWriter is a proof-of-concept (POC) designed to develop basic interaction
 - Default screen size is 800x600.
 
 <picture>
-<img alt="" src="https://github.com/solothinker/MindTypeWriter/blob/19c0f04d4365a13ca6d001732072871ed0dbd867/Data/DefaultKeyBoard.jpg" width="500" height="300"/>
+<img alt="" src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/DefaultKeyBoard.png" width="500" height="300"/>
 </picture>
 
 - NextMind neurotag description in MindTypeWriter Keyboard 
@@ -34,7 +34,7 @@ MindTypeWriter is a proof-of-concept (POC) designed to develop basic interaction
 ## Keyboard layout
 
 - Default layout
-<img src="https://github.com/solothinker/MindTypeWriter/blob/19c0f04d4365a13ca6d001732072871ed0dbd867/Data/DefaultKeyBoard.jpg" width="500" height="300"/>
+<img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/DefaultKeyBoard.png" width="500" height="300"/>
 
 - CapsLock on layout
 <img src="https://github.com/solothinker/MindTypeWriter/blob/main/Data/CapsLockOnKeyBoard.png" width="500" height="300"/>
